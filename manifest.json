@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Accessibility helper",
+    "version": "1.0.0",
+    "description": "Helps disabled users to access and use any website",
+    "author": "Faaiz",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["js/script.js"]
+        }
+    ]
+}
