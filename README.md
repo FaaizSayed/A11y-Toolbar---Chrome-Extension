@@ -1,8 +1,16 @@
-# A11y-Toolbar---Chrome-Extension
+# A11y-Toolbar---Chrome-Extension 
+![alt text](https://github.com/FaaizSayed/A11y-Toolbar---Chrome-Extension/blob/master/src/images/Accessibility%20Toolbar.png "Logo")
 
 A11y Usability Toolbar is a Chrome extension for disabled users to use its multiple features to interact with an inaccessible website.
 
 Our toolbar/Extension will make the website/web app accessible for users to use and interact with as per WCAG standards. The user needs to add our extension into their browser and it will make the application accessible and cater to all the audience in no time.
+
+## Screenshot of Extension
+
+![alt text](https://github.com/FaaizSayed/A11y-Toolbar---Chrome-Extension/blob/master/src/images/image1.png "Toolbar preview")
+![alt text](https://github.com/FaaizSayed/A11y-Toolbar---Chrome-Extension/blob/master/src/images/image2.png "Toolbar preview")
+![alt text](https://github.com/FaaizSayed/A11y-Toolbar---Chrome-Extension/blob/master/src/images/Highlight%20Headings.png "Highlight headings")
+![alt text](https://github.com/FaaizSayed/A11y-Toolbar---Chrome-Extension/blob/master/src/images/contrastmode.png "high contrast mode")
 
 ## How to use it
 
