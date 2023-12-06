@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "description": "Helps disabled users to access and use any website",
     "author": "Faaiz Sayed",
-    "permissions": ["activeTab"],
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
